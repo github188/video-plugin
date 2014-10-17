@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #################
 ## Visual Studio
 #################
@@ -63,6 +64,8 @@ ipch/
 # Guidance Automation Toolkit
 *.gpState
 
+=======
+>>>>>>> c9a1e6ea22b230ab3f43d0e93ebf841ed8dbb8a0
 # Compiled Object files
 *.slo
 *.lo
@@ -96,7 +99,10 @@ ipch/
 *.ilk
 *.pdb
 *.idb
+<<<<<<< HEAD
 *.idl
+=======
+>>>>>>> c9a1e6ea22b230ab3f43d0e93ebf841ed8dbb8a0
 *.ipch
 *.sdf
 *.sln
@@ -111,6 +117,7 @@ ipch/
 *.user
 
 *.lastbuildstate
+<<<<<<< HEAD
 *.exp
 *.db
 *.res
@@ -118,3 +125,5 @@ ipch/
 *.ico
 *.aps
 *.def
+=======
+>>>>>>> c9a1e6ea22b230ab3f43d0e93ebf841ed8dbb8a0
